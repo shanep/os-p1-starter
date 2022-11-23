@@ -1,5 +1,7 @@
 # Project 1
 
+ ![Project Meme](meme.jpg)
+
 This assignment is intended to serve as a warm up assignment. It may have been a
 long time since you have written any code in C/C++, so we will get warmed up by
 writing a circular doubly linked list. This will allow you get up to speed using
