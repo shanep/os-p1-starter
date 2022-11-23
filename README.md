@@ -185,11 +185,3 @@ your solution is correct.
 
 Update the Retrospective.md in the root directory of your starter code and
 complete all the TODO items.
-
-## Acceptance Criteria
-
-- You have installed all the dev tools and can build and test the project
-- You have implemented all the functions defined in lab.h
-- You have written enough tests in `test-lab.cpp` to ensure your solution is correct
-- You have completed all the TODO's in the README.md
-- You have verified all criteria on the [grading rubric]({% link _os/grading-rubric.md %})
