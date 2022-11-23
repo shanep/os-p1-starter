@@ -11,7 +11,7 @@ we can take advantage of the gtest framework and more strict compile time checks
 to help make your code more robust. You can only use C++ in the unit testing
 harness everything else must be in C.
 
-### Warmup Purpose
+## Warmup Purpose
 
 - Refresh you knowledge of struct's
 - Refresh you knowledge pointers (function and data)
@@ -47,7 +47,7 @@ the sentinel node. Each node has a data pointer that will hold a reference to
 the data that is being stored in the list. Using a sentinel node allows us to
 write slightly simpler algorithms when manipulating the list.
 
-![Linked list visualization]({{site.url}}{% link /assets/images/os/list-sentinel.png %})
+![Linked list visualization](list-sentinel.png)
 
 ## Thinking in C
 
